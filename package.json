@@ -1,0 +1,19 @@
+{
+  "name": "status",
+  "version": "1.0.0",
+  "description": "",
+  "main": "function isNullOrEmpty(input){return (input === undefined||input === null||input === '');} module.exports = isNullOrEmpty;",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shashank-tr-DA/npm_package-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shashank-tr-DA/npm_package-test/issues"
+  },
+  "homepage": "https://github.com/Shashank-tr-DA/npm_package-test#readme"
+}
